@@ -1,0 +1,87 @@
+{"level":"info","message":"Cache expired or invalid","timestamp":"2025-05-04T10:33:45.414Z"}
+{"level":"info","message":"Initializing KD-Tree (attempt 1/3)...","timestamp":"2025-05-04T10:33:45.415Z"}
+{"level":"info","message":"MongoDB indexes ensured","timestamp":"2025-05-04T10:33:46.969Z"}
+{"level":"info","message":"Cache expired or invalid","timestamp":"2025-05-04T10:33:46.970Z"}
+{"level":"info","message":"Initializing KD-Tree (attempt 1/3)...","timestamp":"2025-05-04T10:33:46.971Z"}
+{"level":"warn","message":"KD-Tree not initialized","timestamp":"2025-05-04T10:33:57.212Z"}
+{"level":"info","message":"Fetched 565 firms","timestamp":"2025-05-04T10:34:07.019Z"}
+{"level":"info","message":"KD-Tree initialized with 565 firms","timestamp":"2025-05-04T10:34:07.023Z"}
+{"level":"info","message":"KD-Tree data cached successfully","timestamp":"2025-05-04T10:34:07.042Z"}
+{"level":"info","message":"KD-Tree rebuild completed","timestamp":"2025-05-04T10:34:07.043Z"}
+{"level":"info","message":"Loaded 565 firms from cache","timestamp":"2025-05-04T10:34:09.582Z"}
+{"level":"info","message":"KD-Tree rebuild completed","timestamp":"2025-05-04T10:34:09.584Z"}
+{"level":"info","message":"MongoDB indexes ensured","timestamp":"2025-05-04T10:34:10.808Z"}
+{"level":"info","message":"Loaded 565 firms from cache","timestamp":"2025-05-04T10:34:10.820Z"}
+{"level":"info","message":"Application initialized successfully","timestamp":"2025-05-04T10:34:10.821Z"}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:34:29.858Z","totalAvailable":156,"totalResults":100}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:34:50.645Z","totalAvailable":52,"totalResults":20}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:34:55.048Z","totalAvailable":52,"totalResults":20}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:34:58.129Z","totalAvailable":15,"totalResults":15}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:35:00.272Z","totalAvailable":15,"totalResults":15}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:35:06.047Z","totalAvailable":15,"totalResults":15}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:35:08.232Z","totalAvailable":15,"totalResults":15}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:35:08.946Z","totalAvailable":52,"totalResults":20}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:35:13.266Z","totalAvailable":52,"totalResults":20}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:35:17.827Z","totalAvailable":52,"totalResults":12}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:35:24.081Z","totalAvailable":52,"totalResults":20}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:36:01.600Z","totalAvailable":3,"totalResults":3}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:36:03.965Z","totalAvailable":3,"totalResults":3}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:36:07.566Z","totalAvailable":52,"totalResults":20}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:36:11.891Z","totalAvailable":52,"totalResults":20}
+{"level":"info","message":"Loaded 565 firms from cache","timestamp":"2025-05-04T10:39:58.733Z"}
+{"level":"info","message":"KD-Tree rebuild completed","timestamp":"2025-05-04T10:39:58.735Z"}
+{"level":"info","message":"MongoDB indexes ensured","timestamp":"2025-05-04T10:40:00.325Z"}
+{"level":"info","message":"Loaded 565 firms from cache","timestamp":"2025-05-04T10:40:00.336Z"}
+{"level":"info","message":"Application initialized successfully","timestamp":"2025-05-04T10:40:00.337Z"}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:40:23.485Z","totalAvailable":52,"totalResults":12}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:40:27.276Z","totalAvailable":52,"totalResults":20}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:40:32.057Z","totalAvailable":52,"totalResults":20}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:40:35.143Z","totalAvailable":16,"totalResults":16}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:40:35.180Z","totalAvailable":52,"totalResults":12}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:40:37.289Z","totalAvailable":16,"totalResults":16}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:40:42.178Z","totalAvailable":52,"totalResults":20}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:40:47.915Z","totalAvailable":52,"totalResults":20}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:41:00.246Z","totalAvailable":52,"totalResults":12}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:41:00.323Z","totalAvailable":9,"totalResults":9}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:41:02.469Z","totalAvailable":9,"totalResults":9}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:41:09.764Z","totalAvailable":52,"totalResults":20}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:41:24.275Z","totalAvailable":52,"totalResults":20}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:41:30.769Z","totalAvailable":52,"totalResults":12}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:41:58.857Z","totalAvailable":1,"totalResults":1}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:42:01.010Z","totalAvailable":1,"totalResults":1}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:44:10.663Z","totalAvailable":52,"totalResults":20}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:44:14.591Z","totalAvailable":52,"totalResults":20}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:44:20.886Z","totalAvailable":52,"totalResults":12}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:44:30.220Z","totalAvailable":10,"totalResults":10}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:44:32.366Z","totalAvailable":10,"totalResults":10}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:44:37.851Z","totalAvailable":52,"totalResults":20}
+{"level":"info","message":"No restaurants found","query":{"cursor":"0","lat":"43.6319","limit":"20","lon":"-79.3716","openNow":"true","radius":"5"},"timestamp":"2025-05-04T10:44:40.756Z"}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:44:44.329Z","totalAvailable":52,"totalResults":20}
+{"level":"info","message":"No restaurants found","query":{"cursor":"0","lat":"43.6319","limit":"20","lon":"-79.3716","openNow":"true","radius":"5"},"timestamp":"2025-05-04T10:44:44.437Z"}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:44:48.067Z","totalAvailable":52,"totalResults":20}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:44:50.929Z","totalAvailable":52,"totalResults":20}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:44:55.451Z","totalAvailable":52,"totalResults":20}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:45:01.737Z","totalAvailable":52,"totalResults":20}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:45:06.483Z","totalAvailable":52,"totalResults":12}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:45:15.265Z","totalAvailable":12,"totalResults":12}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:45:17.411Z","totalAvailable":12,"totalResults":12}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:45:59.399Z","totalAvailable":12,"totalResults":12}
+{"level":"info","message":"Restaurants fetched successfully","timestamp":"2025-05-04T10:46:01.031Z","totalAvailable":52,"totalResults":20}
+{"level":"info","message":"Cache expired or invalid","timestamp":"2025-05-04T10:47:00.508Z"}
+{"level":"info","message":"Initializing KD-Tree (attempt 1/3)...","timestamp":"2025-05-04T10:47:00.510Z"}
+{"level":"info","message":"MongoDB indexes ensured","timestamp":"2025-05-04T10:47:01.785Z"}
+{"level":"info","message":"Cache expired or invalid","timestamp":"2025-05-04T10:47:01.787Z"}
+{"level":"info","message":"Initializing KD-Tree (attempt 1/3)...","timestamp":"2025-05-04T10:47:01.787Z"}
+{"level":"info","message":"Fetched 565 firms","timestamp":"2025-05-04T10:47:22.083Z"}
+{"level":"info","message":"KD-Tree initialized with 565 firms","timestamp":"2025-05-04T10:47:22.087Z"}
+{"level":"info","message":"KD-Tree data cached successfully","timestamp":"2025-05-04T10:47:22.103Z"}
+{"level":"info","message":"KD-Tree rebuild completed","timestamp":"2025-05-04T10:47:22.104Z"}
+{"level":"info","message":"Fetched 565 firms","timestamp":"2025-05-04T10:47:22.216Z"}
+{"level":"info","message":"KD-Tree initialized with 565 firms","timestamp":"2025-05-04T10:47:22.222Z"}
+{"level":"info","message":"KD-Tree data cached successfully","timestamp":"2025-05-04T10:47:22.247Z"}
+{"level":"info","message":"Application initialized successfully","timestamp":"2025-05-04T10:47:22.247Z"}
+{"level":"info","message":"Loaded 565 firms from cache","timestamp":"2025-05-04T10:47:24.934Z"}
+{"level":"info","message":"KD-Tree rebuild completed","timestamp":"2025-05-04T10:47:24.937Z"}
+{"level":"info","message":"MongoDB indexes ensured","timestamp":"2025-05-04T10:47:26.363Z"}
+{"level":"info","message":"Loaded 565 firms from cache","timestamp":"2025-05-04T10:47:26.374Z"}
+{"level":"info","message":"Application initialized successfully","timestamp":"2025-05-04T10:47:26.374Z"}

@@ -1,0 +1,19 @@
+{"level":"info","message":"Starting KD-Tree initialization (attempt 1/3)","timestamp":"2025-05-04T04:59:52.158Z"}
+{"level":"info","message":"Starting KD-Tree initialization (attempt 1/3)","timestamp":"2025-05-04T04:59:52.428Z"}
+{"level":"info","message":"Fetched 565 firms from database","timestamp":"2025-05-04T05:00:05.542Z"}
+{"level":"info","message":"KD-Tree initialized with 565 firms","timestamp":"2025-05-04T05:00:05.553Z"}
+{"level":"info","message":"Fetched 565 firms from database","timestamp":"2025-05-04T05:00:05.622Z"}
+{"level":"info","message":"KD-Tree initialized with 565 firms","timestamp":"2025-05-04T05:00:05.630Z"}
+{"level":"info","message":"KD-Tree rebuilt successfully","timestamp":"2025-05-04T05:00:05.631Z"}
+{"level":"info","message":"Received restaurant query: {\"cursor\":\"0\",\"lat\":\"43.6534627\",\"lon\":\"-79.4276471\",\"radius\":\"5\",\"limit\":\"65\"}","timestamp":"2025-05-04T05:00:21.059Z"}
+{"level":"info","message":"MongoDB geospatial query returned 0 firms","timestamp":"2025-05-04T05:00:21.114Z"}
+{"level":"info","message":"After KD-Tree filter: 0 firms remain","timestamp":"2025-05-04T05:00:21.116Z"}
+{"level":"info","message":"No restaurants found after all filters","timestamp":"2025-05-04T05:00:21.116Z"}
+{"level":"info","message":"Received restaurant query: {\"cursor\":\"0\",\"lat\":\"43.6534627\",\"lon\":\"-79.4276471\",\"radius\":\"5\",\"limit\":\"65\"}","timestamp":"2025-05-04T05:00:23.646Z"}
+{"level":"info","message":"MongoDB geospatial query returned 0 firms","timestamp":"2025-05-04T05:00:23.700Z"}
+{"level":"info","message":"After KD-Tree filter: 0 firms remain","timestamp":"2025-05-04T05:00:23.701Z"}
+{"level":"info","message":"No restaurants found after all filters","timestamp":"2025-05-04T05:00:23.701Z"}
+{"level":"info","message":"Received restaurant query: {\"cursor\":\"0\",\"lat\":\"43.6534627\",\"lon\":\"-79.4276471\",\"radius\":\"5\",\"limit\":\"65\"}","timestamp":"2025-05-04T05:00:25.481Z"}
+{"level":"info","message":"MongoDB geospatial query returned 0 firms","timestamp":"2025-05-04T05:00:25.535Z"}
+{"level":"info","message":"After KD-Tree filter: 0 firms remain","timestamp":"2025-05-04T05:00:25.536Z"}
+{"level":"info","message":"No restaurants found after all filters","timestamp":"2025-05-04T05:00:25.536Z"}
